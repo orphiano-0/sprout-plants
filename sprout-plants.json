@@ -1,0 +1,318 @@
+[
+    {
+      "image": "https://hips.hearstapps.com/hmg-prod/images/aloe-vera-plant-outside-jpg-1522875135.jpg",
+      "name": "Aloe Vera",
+      "description": "Aloe vera is a succulent plant known for its medicinal properties, particularly its soothing gel that can be used to treat burns and skin irritations.",
+      "care_tips": "Keep the aloe vera plant in bright, indirect sunlight and allow the soil to dry out between waterings. Avoid overwatering.",
+      "water_schedule": "Water the aloe vera plant every 2-3 weeks."
+    },
+    {
+      "image": "https://diacos.com.au/app/uploads/2018/09/monsterea-copy-1-500x480.jpg",
+      "name": "Monstera Deliciosa",
+      "description": "The monstera deliciosa, also known as the Swiss cheese plant, is a popular tropical houseplant with large, glossy leaves and unique fenestrations.",
+      "care_tips": "Place the monstera deliciosa in bright, indirect sunlight and water when the top inch of soil feels dry. Provide support for climbing stems.",
+      "water_schedule": "Water the monstera deliciosa plant once a week during the growing season, and less frequently in winter."
+    },
+    {
+      "image": "https://www.treeland.com/wp-content/uploads/2023/01/fiddle-leaf-fig-20230204_153424-rotated.jpg",
+      "name": "Fiddle Leaf Fig",
+      "description": "The fiddle leaf fig is a stunning indoor tree with large, violin-shaped leaves. It adds a touch of elegance to any room.",
+      "care_tips": "Position the fiddle leaf fig in bright, indirect sunlight and water when the top inch of soil feels dry. Clean the leaves regularly to prevent dust buildup.",
+      "water_schedule": "Water the fiddle leaf fig plant once a week, allowing excess water to drain from the pot."
+    },
+    {
+      "image": "https://bouqs.com/blog/wp-content/uploads/2023/06/shutterstock_1605604291-min.jpg",
+      "name": "ZZ Plant",
+      "description": "The ZZ plant, with its glossy, dark green leaves, is a resilient and low-maintenance houseplant that thrives in low-light conditions.",
+      "care_tips": "Place the ZZ plant in low to bright, indirect sunlight and water sparingly, allowing the soil to dry out between waterings. Tolerates occasional neglect.",
+      "water_schedule": "Water the ZZ plant every 3-4 weeks, or when the top inch of soil feels dry."
+    },
+    {
+      "image": "https://pcfb.gumlet.io/images/articles/golden-pothos-in-hanging-basket.png?w=640&h=426&mode=crop&crop=smart&s=50e6ea2942716506fe3ebf1096ab111b",
+      "name": "Pothos",
+      "description": "Pothos, also known as devil's ivy, is a versatile and easy-to-care-for vine plant that is perfect for beginners.",
+      "care_tips": "Keep the pothos plant in low to bright, indirect sunlight and water when the top inch of soil feels dry. Trim back leggy growth to encourage bushiness.",
+      "water_schedule": "Water the pothos plant once a week during the growing season, and less frequently in winter."
+    },
+    {
+      "image": "https://shop-static.arborday.org/media/0004361_ruby-variegated-rubber-tree.jpeg",
+      "name": "Rubber Plant",
+      "description": "The rubber plant is a classic houseplant with large, glossy leaves that adds a touch of tropical beauty to any indoor space.",
+      "care_tips": "Position the rubber plant in bright, indirect sunlight and water when the top inch of soil feels dry. Wipe the leaves with a damp cloth to keep them dust-free.",
+      "water_schedule": "Water the rubber plant every 1-2 weeks, allowing excess water to drain from the pot."
+    },
+    {
+      "image": "https://gardenerspath.com/wp-content/uploads/2022/11/How-to-Make-Succulent-Potting-Soil-Feature.jpg",
+      "name": "Succulent Mix",
+      "description": "Succulents are a diverse group of plants known for their fleshy leaves and low water requirements. This mix includes various types of succulents.",
+      "care_tips": "Place the succulent mix in bright, indirect sunlight and water sparingly, allowing the soil to dry out completely between waterings. Avoid overwatering.",
+      "water_schedule": "Water the succulent mix every 2-4 weeks, depending on the specific water needs of the individual plants."
+    },
+    {
+      "image": "https://www.marthastewart.com/thmb/wfMSnhZFCSX45OgGrC37o8YWFcI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/grow-care-for-jade-plant-outside-getty-1123-6f0b4051fcd14580886a5431bc05b176.jpg",
+      "name": "Jade Plant",
+      "description": "The jade plant, also known as the money plant, is a popular succulent with fleshy, oval-shaped leaves and a reputation for bringing good luck and prosperity.",
+      "care_tips": "Keep the jade plant in bright, indirect sunlight and water sparingly, allowing the soil to dry out between waterings. Avoid wetting the leaves to prevent rot.",
+      "water_schedule": "Water the jade plant every 2-3 weeks, or when the top inch of soil feels dry."
+    },
+    {
+      "image": "https://www.gardenia.net/wp-content/uploads/2023/05/nephrolepis-exaltata-780x520.webp",
+      "name": "Boston Fern",
+      "description": "The Boston fern is a classic houseplant with delicate, arching fronds that add a touch of elegance to any indoor space.",
+      "care_tips": "Place the Boston fern in bright, indirect sunlight and keep the soil consistently moist. Mist the leaves frequently to maintain humidity.",
+      "water_schedule": "Water the Boston fern regularly, ensuring that the soil remains evenly moist at all times."
+    },
+    {
+      "image": "https://salisburygreenhouse.com/wp-content/uploads/Salisbury-Greenhouse-Alberta-Save-Your-Calatheas-from-Winter-Cold-and-Pests-calathea-makoyana.jpg",
+      "name": "Calathea",
+      "description": "Calathea, also known as prayer plant or zebra plant, is prized for its stunning foliage patterns and unique leaf movements.",
+      "care_tips": "Keep the Calathea in bright, indirect sunlight and maintain consistently moist soil. Mist the leaves frequently to provide humidity.",
+      "water_schedule": "Water the Calathea plant when the top inch of soil feels dry, ensuring that the soil remains evenly moist."
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Philodendron_giganteum_-_Laeken_Royal_Greenhouses_-_Royal_Castle_of_Laeken_-_Brussels%2C_Belgium_-_DSC07236.jpg",
+      "name": "Philodendron",
+      "description": "Philodendrons are popular houseplants known for their lush foliage and ease of care. They come in a variety of species and cultivars.",
+      "care_tips": "Place the philodendron in bright, indirect sunlight and water when the top inch of soil feels dry. Trim back leggy growth to maintain shape.",
+      "water_schedule": "Water the philodendron once a week during the growing season, and less frequently in winter."
+    },
+    {
+      "image": "https://www.plantingtree.com/cdn/shop/products/lavendar3.jpg?v=1683816808",
+      "name": "Lavender",
+      "description": "Lavender is a fragrant herb prized for its beautiful flowers and aromatic foliage. It is commonly used in aromatherapy and culinary applications.",
+      "care_tips": "Position the lavender plant in full sunlight and water sparingly, allowing the soil to dry out between waterings. Prune back after flowering to maintain shape.",
+      "water_schedule": "Water the lavender plant deeply but infrequently, ensuring that the soil dries out slightly between waterings."
+    },
+    {
+      "image": "https://www.capegazette.com/sites/capegazette/files/2020/01/field/image/Pandan_Leaf_(Pandanus_amaryllifolius).jpg",
+      "name": "Pandan",
+      "description": "Pandan, also known as pandanus or screwpine, is a tropical plant prized for its fragrant leaves, which are commonly used in Southeast Asian cooking and desserts.",
+      "care_tips": "Position the pandan plant in partial shade and keep the soil consistently moist. Provide high humidity by misting the leaves regularly.",
+      "water_schedule": "Water the pandan plant regularly, ensuring that the soil remains evenly moist at all times."
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Cananga_odorata_01.JPG",
+      "name": "Ylang Ylang",
+      "description": "Ylang ylang is a tropical tree known for its fragrant flowers, which are used in perfumery and aromatherapy. It is also valued for its medicinal properties.",
+      "care_tips": "Place the ylang ylang plant in full sunlight and keep the soil consistently moist. Provide regular pruning to maintain shape.",
+      "water_schedule": "Water the ylang ylang plant regularly, ensuring that the soil remains evenly moist at all times."
+    },
+    {
+      "image": "https://ph-live-01.slatic.net/p/2d0790ada065b16285ed650b88aff390.jpg",
+      "name": "Bougainvillea",
+      "description": "Bougainvillea is a colorful flowering vine native to South America but widely cultivated in the Philippines for its vibrant blooms and ornamental value.",
+      "care_tips": "Position the bougainvillea plant in full sunlight and water sparingly, allowing the soil to dry out between waterings. Provide support for climbing stems.",
+      "water_schedule": "Water the bougainvillea plant deeply but infrequently, ensuring that the soil dries out slightly between waterings."
+    },
+    {
+      "image": "https://plantura.garden/uk/wp-content/uploads/sites/2/2021/12/desert-rose.jpg",
+      "name": "Adenium",
+      "description": "Adenium, also known as desert rose or impala lily, is a succulent plant valued for its colorful flowers and swollen trunk. It is commonly grown as a bonsai.",
+      "care_tips": "Keep the adenium plant in full sunlight and water sparingly, allowing the soil to dry out completely between waterings. Provide well-draining soil.",
+      "water_schedule": "Water the adenium plant infrequently, allowing the soil to dry out completely between waterings."
+    },
+    {
+      "image": "https://cdn.mos.cms.futurecdn.net/JhYRFDeFNKgUsjkT2fcu6a.jpg",
+      "name": "Anthurium",
+      "description": "Anthurium, also known as flamingo flower or laceleaf, is a tropical plant prized for its colorful, heart-shaped flowers and glossy foliage.",
+      "care_tips": "Position the anthurium plant in bright, indirect sunlight and keep the soil consistently moist. Provide high humidity by misting the leaves regularly.",
+      "water_schedule": "Water the anthurium plant regularly, ensuring that the soil remains evenly moist at all times."
+    },
+    {
+      "image": "https://www.mango.org/wp-content/uploads/2020/04/dwarf-mango-tree-1.jpg",
+      "name": "Mango Tree",
+      "description": "The mango tree is a tropical fruit tree native to the Philippines, prized for its delicious and juicy mango fruits, which are enjoyed fresh or used in various dishes.",
+      "care_tips": "Plant the mango tree in full sunlight and provide well-draining soil. Water regularly, especially during the dry season.",
+      "water_schedule": "Water the mango tree regularly, ensuring that the soil remains evenly moist but not waterlogged."
+    },
+    {
+      "image": "https://cdn.mos.cms.futurecdn.net/UbnGHL3BHr4SRfBfmSnYCQ-1200-80.jpg",
+      "name": "Papaya Tree",
+      "description": "The papaya tree is a fast-growing tropical fruit tree known for its large, palmate leaves and nutritious papaya fruits, which are rich in vitamins and enzymes.",
+      "care_tips": "Plant the papaya tree in full sunlight and provide well-draining soil. Water regularly, especially during the dry season.",
+      "water_schedule": "Water the papaya tree regularly, ensuring that the soil remains evenly moist but not waterlogged."
+    },
+    {
+      "image": "https://images.saymedia-content.com/.image/t_share/MTk3NTAxODcyMzUxNzUwMDQz/how-to-grow-a-lemon-treevery-pretty.jpg",
+      "name": "Lemon Tree",
+      "description": "The lemon tree is a citrus fruit tree valued for its tart and juicy fruits, which are used in culinary dishes, beverages, and for their medicinal properties.",
+      "care_tips": "Position the lemon tree in full sunlight and water regularly, especially during the growing season. Prune back regularly to maintain shape.",
+      "water_schedule": "Water the lemon tree regularly, ensuring that the soil remains evenly moist but not waterlogged."
+    },
+    {
+      "image": "https://i.pinimg.com/originals/7a/3f/3f/7a3f3fb012011b82ddb15c54b1fc311e.jpg",
+      "name": "Guava Tree",
+      "description": "The guava tree is a tropical fruit tree native to the Philippines, prized for its sweet and aromatic guava fruits, which are rich in vitamins and antioxidants.",
+      "care_tips": "Plant the guava tree in full sunlight and provide well-draining soil. Water regularly, especially during the dry season.",
+      "water_schedule": "Water the guava tree regularly, ensuring that the soil remains evenly moist but not waterlogged."
+    },
+    {
+      "image": "https://i.pinimg.com/originals/af/3b/eb/af3beb3d85b7bc00ac4fab13a6620035.jpg",
+      "name": "Sampaguita",
+      "description": "Sampaguita, also known as Arabian jasmine, is a fragrant flowering vine native to the Philippines. It is widely cultivated for its sweet-scented flowers, which are used in leis and garlands.",
+      "care_tips": "Place the sampaguita plant in partial shade and keep the soil consistently moist. Provide support for climbing stems.",
+      "water_schedule": "Water the sampaguita plant regularly, ensuring that the soil remains evenly moist at all times."
+    },
+    {
+      "image": "https://marisgardens.com/cdn/shop/files/AdobeStock_240767117.jpg?v=1689311708&width=1946",
+      "name": "Lantana",
+      "description": "Lantana is a colorful flowering shrub native to the Philippines, prized for its clusters of small, brightly colored flowers and attractive foliage.",
+      "care_tips": "Position the lantana plant in full sunlight and provide well-draining soil. Water regularly, especially during the dry season.",
+      "water_schedule": "Water the lantana plant regularly, ensuring that the soil remains evenly moist but not waterlogged."
+    },
+    {
+      "image": "https://mamanenesgarden.files.wordpress.com/2011/05/kalachuhci124.jpg",
+      "name": "Kalachuchi",
+      "description": "Kalachuchi, also known as plumeria or frangipani, is a tropical tree native to the Philippines. It is prized for its fragrant flowers, which are used in leis and traditional ceremonies.",
+      "care_tips": "Position the kalachuchi plant in full sunlight and provide well-draining soil. Water sparingly, allowing the soil to dry out between waterings.",
+      "water_schedule": "Water the kalachuchi plant infrequently, ensuring that the soil dries out completely between waterings."
+    },
+    {
+      "image": "https://d1mnxluw9mpf9w.cloudfront.net/media/12613/ANGEL-TRUMPET.jpg",
+      "name": "Angel's Trumpet",
+      "description": "Angel's trumpet, also known as brugmansia, is a tropical shrub or small tree native to the Philippines. It is prized for its large, trumpet-shaped flowers and intense fragrance.",
+      "care_tips": "Place the angel's trumpet plant in full sunlight and keep the soil consistently moist. Prune back regularly to maintain shape.",
+      "water_schedule": "Water the angel's trumpet plant regularly, ensuring that the soil remains evenly moist at all times."
+    },
+    {
+      "image": "https://jerrycolebywilliams.files.wordpress.com/2012/06/rosella-hibiscus-sabdariffa-03.jpg",
+      "name": "Rosella",
+      "description": "Rosella, also known as hibiscus sabdariffa, is a flowering plant native to the Philippines. It is prized for its red calyxes, which are used to make herbal tea and jams.",
+      "care_tips": "Position the rosella plant in full sunlight and provide well-draining soil. Water regularly, especially during the dry season.",
+      "water_schedule": "Water the rosella plant regularly, ensuring that the soil remains evenly moist but not waterlogged."
+    },
+    {
+      "image": "https://i.pinimg.com/736x/08/95/df/0895df973e91d71129eba9ee7b466d3f.jpg",
+      "name": "Dama de Noche",
+      "description": "Dama de noche, also known as night-blooming jasmine, is a fragrant flowering vine native to the Philippines. It produces small, white flowers that emit a sweet fragrance at night.",
+      "care_tips": "Place the dama de noche plant in partial shade and keep the soil consistently moist. Provide support for climbing stems.",
+      "water_schedule": "Water the dama de noche plant regularly, ensuring that the soil remains evenly moist at all times."
+    },
+    {
+      "image": "https://cdn.mos.cms.futurecdn.net/BaCuEpPFd4XSBGhopBMGvh-1200-80.jpg",
+      "name": "Bamboo",
+      "description": "Bamboo is a versatile plant with many uses, including construction, culinary applications, and ornamental landscaping.",
+      "care_tips": "Plant bamboo in well-draining soil and provide regular watering, especially during dry periods. Avoid planting bamboo near structures or underground utilities due to its fast-spreading root system.",
+      "water_schedule": "Water bamboo regularly, ensuring that the soil remains evenly moist. Increase watering during hot, dry weather."
+    },
+    {
+      "image": "https://glamourgarden.com/wp-content/uploads/2023/08/Bonsai-1024x636.jpg",
+      "name": "Bonsai Tree",
+      "description": "Bonsai trees are miniature trees cultivated in small pots and meticulously pruned to mimic the shape and scale of full-sized trees. They are prized for their artistic value and symbolism.",
+      "care_tips": "Place bonsai trees in a location with adequate sunlight and humidity. Prune regularly to maintain the desired shape and size. Repot every few years to refresh the soil and root system.",
+      "water_schedule": "Water bonsai trees when the top inch of soil feels dry, typically every 2-3 days. Avoid overwatering, as bonsai trees are susceptible to root rot."
+    },
+    {
+      "image": "https://blog.babylonstoren.com/wp-content/uploads/2021/12/1-3.jpg",
+      "name": "Lotus",
+      "description": "The lotus is a sacred flower in many Asian cultures, symbolizing purity, enlightenment, and rebirth. It grows in aquatic environments, with large, fragrant flowers emerging from the water.",
+      "care_tips": "Grow lotus in a shallow container filled with rich, loamy soil and place it in a sunny location. Provide consistent moisture, keeping the soil submerged in water but avoiding stagnant conditions.",
+      "water_schedule": "Keep lotus soil consistently moist by maintaining a shallow water level, especially during the growing season. Change the water regularly to prevent stagnation and algae growth."
+    },
+    {
+      "image": "https://nurserylive.com/cdn/shop/products/nurserylive-g-ficus-panda-plant-833985.jpg?v=1679750036",
+      "name": "Ficus Tree",
+      "description": "Ficus trees, also known as fig trees, are common in Asia and are prized for their attractive foliage and ability to thrive indoors as houseplants.",
+      "care_tips": "Place ficus trees in a location with bright, indirect sunlight and protect them from drafts and temperature fluctuations. Water when the top inch of soil feels dry, and mist the leaves regularly to increase humidity.",
+      "water_schedule": "Water ficus trees thoroughly, allowing excess water to drain from the pot. Water again when the top inch of soil feels dry, typically every 7-10 days."
+    },
+    {
+      "image": "https://www.thespruce.com/thmb/TolkPzwTIRAu5a2aUO8ZSAoimm8=/683x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1518339001-fc6c5847f258415ca36403be6e813d5d.jpg",
+      "name": "Jasmine",
+      "description": "Jasmine is a fragrant flowering plant commonly cultivated for its sweet-scented flowers, which are used in teas, perfumes, and religious ceremonies.",
+      "care_tips": "Grow jasmine in well-draining soil and place it in a location with full sunlight or partial shade. Prune regularly to maintain shape and encourage bushy growth. Protect from frost in colder climates.",
+      "water_schedule": "Water jasmine regularly, keeping the soil evenly moist but not waterlogged. Increase watering during hot, dry weather and reduce during winter dormancy."
+    },
+    {
+      "image": "https://www.padmamnursery.com/cdn/shop/products/JXAs4EKd5H_1024x1024_a9a7d9e5-a504-451a-971c-bf1dea30d828.jpg?v=1687777387",
+      "name": "Tulsi",
+      "description": "Tulsi, or holy basil, is a sacred herb in Hinduism and is revered for its medicinal properties. It is commonly used in Ayurvedic medicine and as a culinary herb.",
+      "care_tips": "Grow tulsi in well-draining soil and place it in a location with full sunlight. Water regularly to keep the soil consistently moist, and pinch off flower buds to encourage leaf growth.",
+      "water_schedule": "Water tulsi regularly, ensuring that the soil remains evenly moist. Avoid letting the soil dry out completely, as tulsi prefers consistent moisture."
+    },
+    {
+      "image": "https://i.ytimg.com/vi/_pVBsSN26-Y/maxresdefault.jpg",
+      "name": "Bitter Melon",
+      "description": "Bitter melon, also known as bitter gourd or Momordica charantia, is a tropical vine cultivated for its edible but bitter-tasting fruit. It is commonly used in Asian cuisine and traditional medicine.",
+      "care_tips": "Grow bitter melon in well-draining soil and provide support for climbing vines. Water regularly, especially during the growing season, and protect from frost in cooler climates.",
+      "water_schedule": "Water bitter melon regularly, keeping the soil evenly moist but not waterlogged. Reduce watering during fruiting to avoid splitting and bitterness."
+    },
+    {
+      "image": "https://agriculture.com.ph/wp-content/uploads/2021/04/Image-by-Iskandar-Ab.-Rashid-from-Pixabay..jpg",
+      "name": "Malunggay",
+      "description": "Malunggay, also known as the drumstick tree, Moringa or miracle tree, is valued for its highly nutritious leaves, pods, and seeds. It is commonly used in Asian cooking and traditional medicine.",
+      "care_tips": "Grow malunggay in well-draining soil and place it in a location with full sunlight. Water regularly, especially during the dry season, and fertilize occasionally with a balanced fertilizer.",
+      "water_schedule": "Water malunggay regularly, ensuring that the soil remains evenly moist. Increase watering during hot, dry weather and reduce during winter dormancy."
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Plumeria_rubra-4.JPG",
+      "name": "Plumeria",
+      "description": "Plumeria, also known as frangipani, is a tropical tree with fragrant, colorful flowers. It is commonly found in Asia and is prized for its ornamental value in gardens and landscapes.",
+      "care_tips": "Grow plumeria in well-draining soil and place it in a location with full sunlight. Water regularly, especially during the growing season, and fertilize with a high-phosphorus fertilizer to promote flowering.",
+      "water_schedule": "Water plumeria regularly, ensuring that the soil remains evenly moist. Reduce watering during winter dormancy, allowing the soil to dry out slightly between waterings."
+    },
+    {
+      "image": "https://prasiddhiforest.org/blog/wp-content/uploads/2021/08/banana-tree-hero-1024x683.jpg",
+      "name": "Banana Tree",
+      "description": "Banana trees are tropical plants cultivated for their delicious and nutritious fruits. They are fast-growing and can reach heights of up to 20 feet, producing large bunches of bananas.",
+      "care_tips": "Plant banana trees in well-draining soil and provide plenty of sunlight. Water regularly, keeping the soil evenly moist but not waterlogged. Fertilize with a balanced fertilizer to promote healthy growth and fruit production.",
+      "water_schedule": "Water banana trees deeply and regularly, ensuring that the soil remains consistently moist. Increase watering during hot, dry weather and reduce during winter dormancy."
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/81eKrcHADvL._AC_UF1000,1000_QL80_.jpg",
+      "name": "Ginger",
+      "description": "Ginger is a flowering plant prized for its edible rhizomes, which are used as a spice and herbal remedy. It is native to Southeast Asia and has been cultivated for thousands of years.",
+      "care_tips": "Plant ginger in well-draining, loamy soil and provide partial shade. Keep the soil consistently moist but not waterlogged, as ginger prefers humid conditions. Mulch around the plants to retain moisture and suppress weeds.",
+      "water_schedule": "Water ginger regularly, ensuring that the soil remains consistently moist. Reduce watering during periods of dormancy or cooler weather."
+    }, 
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0059/8835/2052/products/Lemon_Grass_5_FGT.jpg",
+      "name": "Lemongrass",
+      "description": "Lemongrass is a tropical herb known for its citrusy flavor and aromatic fragrance. It is commonly used in Asian cuisine and herbal teas, as well as in traditional medicine.",
+      "care_tips": "Plant lemongrass in well-draining soil and provide full sunlight. Water regularly, especially during the dry season, and fertilize with a balanced fertilizer to promote healthy growth. Divide and replant clumps every few years to maintain vigor.",
+      "water_schedule": "Water lemongrass regularly, ensuring that the soil remains consistently moist. Reduce watering during periods of dormancy or cooler weather."
+    },
+    {
+      "image": "https://i.ebayimg.com/images/g/2GYAAOSwx1BkNcKA/s-l1200.webp",
+      "name": "Sampaloc Tree",
+      "description": "Sampaloc trees are tropical fruit trees native to Southeast Asia and are valued for their tart, tangy fruit pods. They are commonly used in cooking, beverages, and traditional medicine.",
+      "care_tips": "Plant sampaloc trees in well-draining soil and provide full sunlight. Water regularly, especially during the dry season, and fertilize with a balanced fertilizer to promote healthy growth and fruit production. Prune regularly to maintain shape and remove dead or diseased branches.",
+      "water_schedule": "Water sampaloc trees regularly, ensuring that the soil remains consistently moist. Increase watering during hot, dry weather and reduce during winter dormancy."
+    },
+    {
+      "image": "https://scontent.fmnl9-1.fna.fbcdn.net/v/t1.6435-9/39745238_2218038668471934_7922092101167218688_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=QnpCujA7bIoAX-pJQJn&_nc_ht=scontent.fmnl9-1.fna&oh=00_AfC2n1WISIJ2uM08WQwya8SGWY3zRapVZklzRSZSbCKkgQ&oe=66304D75",
+      "name": "Calamansi",
+      "description": "Calamansi is a citrus fruit tree commonly grown in the Philippines. It produces small, round fruits similar to limes, prized for their tart flavor and aromatic zest.",
+      "care_tips": "Plant calamansi in full sunlight and well-draining soil. Water regularly, especially during dry periods, and fertilize occasionally to promote healthy growth and fruit production.",
+      "water_schedule": "Water calamansi regularly, ensuring that the soil remains evenly moist but not waterlogged."
+    },
+    {
+      "image": "https://cdn.mos.cms.futurecdn.net/vvUydgY3JGpDQ8aXNRAHtM.jpg",
+      "name": "Maple",
+      "description": "Maple trees are deciduous trees known for their colorful foliage and sap, which is used to make maple syrup. While not native to the Philippines, they can be grown in suitable climates.",
+      "care_tips": "Plant maple trees in a location with partial shade and well-draining soil. Water regularly, especially during dry periods, and protect from strong winds.",
+      "water_schedule": "Water maple trees regularly, ensuring that the soil remains evenly moist."
+    },
+    {
+      "image": "https://bonnieplants.com/cdn/shop/articles/BONNIE_watermelon_iStock-181067852-1800px_28032150-26a6-4cda-be5b-c4408112e3a6.jpg?v=1642541981",
+      "name": "Watermelon",
+      "description": "Watermelon is a vine-like flowering plant native to Africa, cultivated for its large, juicy fruit with sweet flesh. It is grown in many tropical regions, including the Philippines.",
+      "care_tips": "Plant watermelon in full sunlight and well-draining soil rich in organic matter. Water deeply but infrequently, allowing the soil to dry slightly between waterings. Provide support for climbing vines and protect from pests.",
+      "water_schedule": "Water watermelon plants deeply once a week, ensuring that the soil remains evenly moist but not waterlogged."
+    },
+    {
+      "image": "https://exploretraveler.com/wp-content/uploads/2019/02/16743ddad8cdb9c1e285945ad0369ce0.jpg",
+      "name": "Sycamore",
+      "description": "Sycamore trees are deciduous trees known for their large, broad leaves and distinctive bark. They are not native to the Philippines but can be grown in suitable climates.",
+      "care_tips": "Plant sycamore trees in full sunlight and well-draining soil. Water regularly, especially during dry periods, and protect from strong winds.",
+      "water_schedule": "Water sycamore trees regularly, ensuring that the soil remains evenly moist."
+    },
+    {
+      "image": "https://bonnieplants.com/cdn/shop/articles/BONNIE_tomatoes_iStock-481349128-1800px_9f8f5390-a418-4d91-a3d0-00ae0b7900cb.jpg?v=1642541980&width=1800",
+      "name": "Tomato",
+      "description": "Tomato plants are herbaceous perennials cultivated for their edible fruits, which are used in a variety of culinary dishes. They are grown worldwide, including in the Philippines.",
+      "care_tips": "Plant tomatoes in full sunlight and well-draining soil rich in organic matter. Water regularly, keeping the soil consistently moist but not waterlogged. Provide support for vines and prune regularly to promote fruit production.",
+      "water_schedule": "Water tomato plants regularly, ensuring that the soil remains evenly moist but not waterlogged."
+    }
+
+]
